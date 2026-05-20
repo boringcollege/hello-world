@@ -1,0 +1,18 @@
+title: Hello, World!
+description: Learn to write your first program in 12 of the most popular programming languages. A practical introduction to syntax, tooling, and running code across Python, JavaScript, Go, Rust, Java, C, C++, TypeScript, Ruby, PHP, Swift, and Kotlin.
+cover: https://raw.githubusercontent.com/boringcollege/hello-world/main/cover.png
+chapters:
+  - 01-introduction.md
+  - 02-python.md
+  - 03-javascript.md
+  - 04-go.md
+  - 05-rust.md
+  - 06-java.md
+  - 07-c.md
+  - 08-cpp.md
+  - 09-typescript.md
+  - 10-ruby.md
+  - 11-php.md
+  - 12-swift.md
+  - 13-kotlin.md
+  - 14-whats-next.md
