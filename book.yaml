@@ -2,17 +2,74 @@ title: Hello, World!
 description: Learn to write your first program in 12 of the most popular programming languages. A practical introduction to syntax, tooling, and running code across Python, JavaScript, Go, Rust, Java, C, C++, TypeScript, Ruby, PHP, Swift, and Kotlin.
 cover: https://raw.githubusercontent.com/boringcollege/hello-world/main/cover.png
 chapters:
-  - 01-introduction.md
-  - 02-python.md
-  - 03-javascript.md
-  - 04-go.md
-  - 05-rust.md
-  - 06-java.md
-  - 07-c.md
-  - 08-cpp.md
-  - 09-typescript.md
-  - 10-ruby.md
-  - 11-php.md
-  - 12-swift.md
-  - 13-kotlin.md
-  - 14-whats-next.md
+  - file: 01-introduction.md
+    title: Introduction
+    slug: introduction
+    number: 1
+    free: true
+
+  - file: 02-python.md
+    title: Python
+    slug: python
+    number: 2
+
+  - file: 03-javascript.md
+    title: JavaScript
+    slug: javascript
+    number: 3
+
+  - file: 04-go.md
+    title: Go
+    slug: go
+    number: 4
+
+  - file: 05-rust.md
+    title: Rust
+    slug: rust
+    number: 5
+
+  - file: 06-java.md
+    title: Java
+    slug: java
+    number: 6
+
+  - file: 07-c.md
+    title: C
+    slug: c
+    number: 7
+
+  - file: 08-cpp.md
+    title: C++
+    slug: cpp
+    number: 8
+
+  - file: 09-typescript.md
+    title: TypeScript
+    slug: typescript
+    number: 9
+
+  - file: 10-ruby.md
+    title: Ruby
+    slug: ruby
+    number: 10
+
+  - file: 11-php.md
+    title: PHP
+    slug: php
+    number: 11
+
+  - file: 12-swift.md
+    title: Swift
+    slug: swift
+    number: 12
+
+  - file: 13-kotlin.md
+    title: Kotlin
+    slug: kotlin
+    number: 13
+
+  - file: 14-whats-next.md
+    title: "What's Next"
+    slug: whats-next
+    number: 14
+    free: true
